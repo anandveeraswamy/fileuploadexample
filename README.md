@@ -2,6 +2,8 @@
 # Django File Upload Project
 
 This guide walks you through setting up a Django project for file uploads and image retrieval, with validation for file type and size. Follow these steps to set up and run the project.
+You can test my published Render web service at https://fileuploadexample.onrender.com/upload/
+The full code can be found at https://github.com/anandveeraswamy/fileuploadexample.git
 
 ---
 
@@ -280,6 +282,8 @@ python manage.py runserver
 ```
 
 Visit [http://127.0.0.1:8000/upload/](http://127.0.0.1:8000/upload/) to test the application.
+You can test my published Render web service at https://fileuploadexample.onrender.com/upload/
+The full code can be found at https://github.com/anandveeraswamy/fileuploadexample.git
 
 ---
 
